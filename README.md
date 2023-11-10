@@ -22,29 +22,54 @@ Acceptable WebWork version of the equation: (42x(((((3x^2)+7)^6))))((-7(x^2)+4)^
 
 ## WebWork Format Key
 
-+	Addition.
--	Subtraction.
++ Addition.
+
+- Subtraction.
+  
 *	Multiplication can also be indicated by a space or jutaposition, e.g. 2x, 2 x or 2*x, also 2(3+4).
+  
 /	Division.
+
 ^ or **	Exponentiation; e.g. 3^2 or 3**2.
+
 (	Left parenthesis - used for grouping expressions.
+
 )	Right parenthesis - used for grouping expressions.
+
 pi	This gives π, e.g. cos(π) is -1.
+
 e	This gives the constant e, or roughly 2.71828182845905, e.g. ln(e) is 1.
+
 E	Scientific Notation. For example, 2.1E2 gives 210 and 2.1E-2 gives .021.
+
 abs( )	The absolute value function.
+
 sqrt( )	The square root function. Note: Sometimes WeBWorK does not allow sqrt( ). In those cases, try ( )^(1/2).
+
 exp( )	The exponential function. exp(x) is the same as e^x
+
 log( ) or ln( )	The natural logarithm function (base e).
+
 logten( )	The logarithm function, base 10.
+
 abs( )	The absolute value function.
+
 fact( )	The factorial function (only non-negative integer input allowed).
+
 cos( )	The cosine function (uses radians).
+
 sin( )	The sine function (uses radians).
+
 tan( )	The tangent function (uses radians).
+
 sec( )	The secant function (uses radians).
+
 csc( )	The cosecant function (uses radians).
+
 cot( )	The cotangent function (uses radians).
+
 arccos( ) or acos( )	The arc-cosine function.
+
 arcsin( ) or asin( )	The arc-sine function.
+
 arctan( ) or atan( )	The arc-tangent function.
