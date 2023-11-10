@@ -1,5 +1,5 @@
 ## WebWork-Formatter
-### Online tool to covert standard complex equations into a format which webwork accepts.
+### Online tool to covert standard complex mathematical equations into a format which is acceptable by the online assignment system, WebWork 
 
 WeBWorK is an online homework delivery system primarily used for mathematics and science. It allows students to complete their homework over the web, and receive instantaneous feedback as to the correctness of their responses. 
 
