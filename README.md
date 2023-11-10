@@ -3,7 +3,7 @@
 
 WeBWorK is an online homework delivery system primarily used for mathematics and science. It allows students to complete their homework over the web, and receive instantaneous feedback as to the correctness of their responses. 
 
-Inputting an equation as an answer to a question is not simple, especially if the equation is long and complex. 
+Entering an equation as a response to a question can be challenging, particularly when dealing with lengthy and intricate formulas. For the average user, the meticulous conversion of their answer into a complex format not only consumes unnecessary time but also increases the likelihood of inputting an incorrect response. This, in turn, compels the user to invest additional time in rechecking the format, despite the assessment focusing solely on mathematical proficiency.
 
 ### eg.
 
