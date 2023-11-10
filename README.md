@@ -13,6 +13,6 @@ Acceptable WebWork version of the equation: sqrt(3x-1)+((1+x)**2)
 
 A more complex eg. 
 
-$42x((3x^2+7)^6)((-7x^2+4)^{10}) - 140x((-7x^2+4)^9)(3x^2+7)^7$
+Equation that needs to be inputed: $42x((3x^2+7)^6)((-7x^2+4)^{10}) - 140x((-7x^2+4)^9)(3x^2+7)^7$
 
-(42x(((3x**2+7)**6)))((-7(x**2)+4)**10)-140x((-7(x**2)+4)**9)(3(x**2)+7)**7
+Acceptable WebWork version of the equation: (42x(((3x**2+7)**6)))((-7(x**2)+4)**10)-140x((-7(x**2)+4)**9)(3(x**2)+7)**7
