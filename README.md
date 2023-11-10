@@ -8,5 +8,11 @@ Inputting an equation as an answer to a question is not simple, especially if th
 eg.
 
 Equation that needs to be inputed: $\sqrt{3x-1}+(1+x)^2$
+
 Acceptable WebWork version of the equation: sqrt(3x-1)+((1+x)**2)
 
+A more complex eg. 
+
+$42x((3x^2+7)^6)((-7x^2+4)^{10}) - 140x((-7x^2+4)^9)(3x^2+7)^7$
+
+(42x(((3x**2+7)**6)))((-7(x**2)+4)**10)-140x((-7(x**2)+4)**9)(3(x**2)+7)**7
