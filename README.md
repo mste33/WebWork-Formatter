@@ -30,7 +30,7 @@ Acceptable WebWork version of the equation:
 
 (-) Subtraction.
   
-(*)	Multiplication can also be indicated by a space or jutaposition, e.g. 2x, 2 x or 2*x, also 2(3+4).
+|*|	Multiplication can also be indicated by a space or jutaposition, e.g. 2x, 2 x or 2*x, also 2(3+4).
   
 (/)	Division.
 
