@@ -16,3 +16,5 @@ Acceptable WebWork version of the equation: sqrt(3x-1)+((1+x)**2)
 Equation that needs to be inputed: $42x((3x^2+7)^6)((-7x^2+4)^{10}) - 140x((-7x^2+4)^9)(3x^2+7)^7$
 
 Acceptable WebWork version of the equation: (42x(((((3x^2)+7)^6))))((-7(x^2)+4)^10)-140x((-7(x^2)+4)^9)((3(x^2)+7)^7)
+
+![image](https://github.com/mste33/WebWork-Formatter/assets/93059695/6a6b8c69-3167-46a0-9c26-60808caa01dd)
