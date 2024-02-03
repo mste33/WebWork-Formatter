@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>My Webpagesss</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+    <div id="number-pad">
+        <button class="pad-button" data-latex="x^2">x²</button>
+        <button class="pad-button" data-latex="x_i">xᵢ</button>
+        <button class="pad-button" data-latex="x^{□}">x<sup>□</sup></button>
+        <button class="pad-button" data-latex="\sqrt{}">\[\sqrt{}\]</button>
+        <button class="pad-button" data-latex="\sqrt[n]{}">ⁿ√</button>
+        <button class="pad-button" data-latex="<"><</button>
+        <button class="pad-button" data-latex=">">></button>
+        <button class="pad-button" data-latex="=">=</button>
+        <button class="pad-button" data-latex="\div">÷</button>
+        <button class="pad-button" data-latex="\times">×</button>
+        <button class="pad-button" data-latex="\pi">π</button
+
+        
+
+        <!-- ... other buttons ... -->
+    </div>
+    <p>
+        When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
+        \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
+      </p>
+    <div id="equation-output"></div>
+</body>
+</html>

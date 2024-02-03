@@ -1,0 +1,9 @@
+.number-pad {
+    padding: 20px 40px; /* Top/bottom padding and left/right padding */
+    font-size: 1.5em;
+}
+
+.pad-button {
+    padding: 20px 40px; /* Top/bottom padding and left/right padding */
+    font-size: 1.5em;
+}
